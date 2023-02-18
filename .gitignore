@@ -1,0 +1,25 @@
+/Code/HollowClock/.vs
+/Code/HollowClock/__vm
+/Code/HollowClock/obj
+/STL/bevel-gear.stl
+/STL/bevel-gear-small-hole.stl
+/STL/cap.stl
+/STL/case-rear-hole.stl
+/STL/case-side-hole-optional.stl
+/STL/hour-hand.stl
+/STL/hour-rotor.stl
+/STL/min-drive-gear.stl
+/STL/min-drive-gear-axis.stl
+/STL/min-rotor.stl
+/STL/rear-cover.stl
+/STL/rotor-cover.stl
+/STL/stepper-test.ino
+/STL/Updated Files/Gerber_PCB_Stepper Motor_2023-02-01.zip
+/STL/Updated Files/Lid.stl
+/STL/Updated Files/Min Hand.stl
+/STL/Updated Files/Upgraded Bottom for PCB.stl
+/STL/washer1-optional.stl
+/STL/washer2-optional.stl
+/STL/worm-gear_fixed.stl
+/Code/HollowClock/debug.cfg
+/Code/HollowClock/debug_custom.json
